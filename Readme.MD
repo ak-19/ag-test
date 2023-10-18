@@ -82,4 +82,4 @@ priorities and item dependencies.
     ```
 
 ## Futher notice
-I assume that some details I might get incorrectly and there is more then one opportunity to improve solution in preformance and correctness. This can be further develpoed with more time and effort. 
+I assume that some details I might get incorrectly and there is more then one opportunity to improve solution in preformance and correctness. This can be further developed with more time and effort. 
