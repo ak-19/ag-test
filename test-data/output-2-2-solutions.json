@@ -1,0 +1,21 @@
+{
+    "total_value": 650,
+    "items": [
+        {
+            "name": "Number one",
+            "size": 4,
+            "value": 500,
+            "priority": 1,
+            "dependencies": []
+        },
+        {
+            "name": "Coffee Table P 2",
+            "size": 6,
+            "value": 150,
+            "priority": 2,
+            "dependencies": [
+                "Number one"
+            ]
+        }
+    ]
+}

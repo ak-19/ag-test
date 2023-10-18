@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "name": "Number one",
+            "size": 4,
+            "value": 500,
+            "priority": 1,
+            "dependencies": []
+        },
+        {
+            "name": "Number one",
+            "size": 6,
+            "value": 150,
+            "priority": 4,
+            "dependencies": [ ]
+        }   
+    ],
+    "total_space": 10
+}

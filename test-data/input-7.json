@@ -1,0 +1,145 @@
+{
+    "total_space": 30,
+    "items": [
+        {
+            "name": "Item 1",
+            "size": 3,
+            "value": 12,
+            "priority": 1,
+            "dependencies": []
+        },
+        {
+            "name": "Item 2",
+            "size": 5,
+            "value": 10,
+            "priority": 2,
+            "dependencies": []
+        },
+        {
+            "name": "Item 3",
+            "size": 2,
+            "value": 15,
+            "priority": 3,
+            "dependencies": []
+        },
+        {
+            "name": "Item 4",
+            "size": 8,
+            "value": 7,
+            "priority": 4,
+            "dependencies": []
+        },
+        {
+            "name": "Item 5",
+            "size": 7,
+            "value": 5,
+            "priority": 5,
+            "dependencies": []
+        },
+        {
+            "name": "Item 6",
+            "size": 6,
+            "value": 9,
+            "priority": 6,
+            "dependencies": []
+        },
+        {
+            "name": "Item 7",
+            "size": 4,
+            "value": 8,
+            "priority": 7,
+            "dependencies": []
+        },
+        {
+            "name": "Item 8",
+            "size": 9,
+            "value": 3,
+            "priority": 8,
+            "dependencies": []
+        },
+        {
+            "name": "Item 9",
+            "size": 2,
+            "value": 10,
+            "priority": 9,
+            "dependencies": []
+        },
+        {
+            "name": "Item 10",
+            "size": 1,
+            "value": 6,
+            "priority": 10,
+            "dependencies": []
+        },
+        {
+            "name": "Item 11",
+            "size": 3,
+            "value": 13,
+            "priority": 11,
+            "dependencies": []
+        },
+        {
+            "name": "Item 12",
+            "size": 4,
+            "value": 14,
+            "priority": 12,
+            "dependencies": []
+        },
+        {
+            "name": "Item 13",
+            "size": 6,
+            "value": 12,
+            "priority": 13,
+            "dependencies": []
+        },
+        {
+            "name": "Item 14",
+            "size": 8,
+            "value": 11,
+            "priority": 14,
+            "dependencies": []
+        },
+        {
+            "name": "Item 15",
+            "size": 5,
+            "value": 4,
+            "priority": 15,
+            "dependencies": []
+        },
+        {
+            "name": "Item 16",
+            "size": 2,
+            "value": 7,
+            "priority": 16,
+            "dependencies": []
+        },
+        {
+            "name": "Item 17",
+            "size": 10,
+            "value": 20,
+            "priority": 17,
+            "dependencies": []
+        },
+        {
+            "name": "Item 18",
+            "size": 4,
+            "value": 18,
+            "priority": 18,
+            "dependencies": []
+        },
+        {
+            "name": "Item 19",
+            "size": 6,
+            "value": 15,
+            "priority": 19,
+            "dependencies": []
+        },
+        {
+            "name": "Item 20",
+            "size": 3,
+            "value": 9,
+            "priority": 20,
+            "dependencies": []
+        }
+    ]
+}

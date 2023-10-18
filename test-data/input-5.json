@@ -1,0 +1,33 @@
+{
+    "items": [
+        {
+            "name": "A 1",
+            "size": 13,
+            "value": 10,
+            "priority": 1,
+            "dependencies": []
+        },
+        {
+            "name": "B 2",
+            "size": 7,
+            "value": 20,
+            "priority": 1,
+            "dependencies": []
+        },
+        {
+            "name": "C 3",
+            "size": 2,
+            "value": 14,
+            "priority": 1,
+            "dependencies": []
+        },
+        {
+            "name": "D 4",
+            "size": 7,
+            "value": 15,
+            "priority": 1,
+            "dependencies": []
+        }
+    ],
+    "total_space": 20
+}

@@ -1,0 +1,33 @@
+{
+    "items": [
+        {
+            "name": "Number one",
+            "size": 4,
+            "value": 500,
+            "priority": 1,
+            "dependencies": []
+        },
+        {
+            "name": "Coffee Table P 4",
+            "size": 6,
+            "value": 150,
+            "priority": 4,
+            "dependencies": [ "Number one"]
+        },
+        {
+            "name": "Coffee Table P 3",
+            "size": 6,
+            "value": 150,
+            "priority": 3,
+            "dependencies": [ "Number one"]
+        },
+        {
+            "name": "Coffee Table P 2",
+            "size": 6,
+            "value": 150,
+            "priority": 2,
+            "dependencies": [ "Number one"]
+        }     
+    ],
+    "total_space": 10
+}
